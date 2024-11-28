@@ -40,15 +40,22 @@ social:
     share_url:
     share_title:
     share_link:
+    
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/doyeon-kim-b28333283/
+    desc:	Linkedin
+    share_url:
+    share_title:
+    share_link:
 
-  - icon:	fab fa-github
+  - icon:	"/assets/images/author.jpg"
     url:	https://velog.io/@jayce_97/posts
     desc:	Velog
     share_url:
     share_title:
     share_link:
 
-  - icon:	linktr
+  - icon:	Emoji.find_by_alias("cat").raw
     url:	https://linktr.ee/jayce_97
     desc:	LinkTree
     share_url:
