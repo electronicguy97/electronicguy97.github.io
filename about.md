@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/article_images/about/cover_0116.png
 ---
 
 <!-- A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
@@ -16,8 +17,6 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
 
-
-![KakaoTalk_20230807_211241251.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f28d16d9-219e-4251-9abe-4ff621186556/KakaoTalk_20230807_211241251.jpg)
 
 # 김도연 **| Dreaming of the future**
 
