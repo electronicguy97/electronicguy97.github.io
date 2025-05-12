@@ -35,6 +35,11 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 ---
 
 ### **🔎 Summary**
+- 머신러닝·딥러닝 분야에 강한 흥미와 실전 경험 보유
+- 다양한 프로젝트를 통해 모델 학습, 성능 개선 및 API 서비스 배포 경험
+- Java + Spring 기반 웹 개발 경험과 DB 연동 경험 (MySQL, Oracle 등)
+- 기초 CS 및 하드웨어까지 다룰 수 있는 전자공학 기반 보유
+- 협업과 지속적인 피드백을 통해 성장 지향적 학습 태도 유지
 
 - **🧾  Activities**
     - 2024 Wassup (ESTsoft) 시계열 데이터 우수상 | 2024.01.15
@@ -47,6 +52,7 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 
 ### **🏫 Education**
 
+- ZLab 컴퓨터 비전 소프트웨어 개발 과정 | 2024.04 ~ 진행 중
 - Wassup (EstSoft) | 2023.10~2024.03
     - ML/DL의 GAN, CNN, NN, NLP, Transformer, 시계열 등 PyTorch로 학습
     - 논문과 수학적 개념을 상세히 다루며, ML/DL을 학습
@@ -67,48 +73,50 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 
 ### **👨‍💻 Technology Stack**
 
-- **🔠 Language**
-    - Python
-    - C++
-    - R
-    - Java
-- **🤖 AI Tools**
-    - Pytorch
-    - Tensorflow
-    - Sklearn
-- **📊 Frame-Work**
-    - Streamlit
-    - Django
-    - Flask
-    - Spring
-    - Docker(Basic)
-    - RestAPI(Basic)
-- 📄 **WEB-BE**
-    - Tomcat
-    - Mybatis
-    - MySQL
-    - Oracle
-    - SQLite
-- 🤖 **OS, Etc**
-    - Linux
-    - Unix
-    - Shell
-    - Git
+| 분류 | 기술 |
+| --- | --- |
+| **언어** | Python, Java, C++, C, R |
+| **AI 프레임워크** | PyTorch, TensorFlow, Sklearn, OpenCV |
+| **웹 프레임워크** | Django, Flask, Spring |
+| **데이터베이스** | MySQL, Oracle, SQLite |
+| **기타 도구 및 환경** | Git, Linux, Docker, VS Code, Streamlit |
 
 ---
 
-### 🅿️ **ProJect**
+### 🧠 Projects
 
-- [냉장고를 부탁해](https://github.com/JamieSKinard/est_wassup_03) | 24/02/08 ~ 02/29 (비정형 데이터)
-- [전력 사용량을 예측해보자!](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4?tab=readme-ov-file) | 23/12/26 ~ 24/01/15 (시계열)
-- [대구 교통사고량을 예측해보자!](https://github.com/pmz-q/est_wassup_01) | 23/11/24 ~ 12/12(정형 데이터)
-- [정형데이터 분석,시계열데이터 코드](https://github.com/electronicguy97/python) | 22/06/11 ~ 07/05(정형),2022/06/11 ~ 07/26(시계열)
-- [동물사운드 프로젝트](https://github.com/electronicguy97/AI) | 22/10/25 ~ 12/06
-- [심심이 챗봇](https://github.com/electronicguy97/SimSim_chatbot) | 23/08/07 ~ 09/05
-- [TODO 사이트만들기](https://github.com/electronicguy97/todo) | 23/06/24 ~ 07/10
-- [OpenAIAPI활용(Chatbot)](https://github.com/electronicguy97/ChatBot) | 23.07.11~07.12
-- [GPT-Engineer활용(snakegame)](https://github.com/electronicguy97/snakegame) | 23.07.11~07.12
-- 얼굴인식 밸런싱기계 만들기 | 21/04/23 ~ 06/08
+#### 🔧 DeepSeek R-1 Fine-tuning | 2025.03.03 ~ 2025.03.25
+
+> LoRA, QLoRA 기반 코드 생성 모델 구축
+> 
+- Python 중심의 code_search_net 데이터셋 기반 양방향 학습
+- 추론 API 형태로 모델 배포 설계
+🔗 [GitHub](https://github.com/electronicguy97/Fine_tuning_using_Lora)
+
+#### 🦙 LLama + Diffusion 데이터 생성기 | 2025.01.25 ~ 2025.02.15
+
+> 적은 이미지로 학습 가능한 데이터 생성 시스템 구축
+> 
+- LLaMA 기반 자동 프롬프트 생성 + Diffusion 이미지 생성
+- 학습 데이터 부족 문제 해결을 위한 내부 시스템 설계
+🔗 [GitHub](https://github.com/electronicguy97/Fine_tuning_loar_LLama3.2)
+
+#### 🧊 냉장고를 부탁해 | 2024.02.08 ~ 2024.04.03
+
+> 실시간 표정 감지 + 기분 기반 솔루션 제안 모델
+> 
+- YOLO(1-Stage), VIT, RepVGG 비교 후 YOLO 채택
+- StarGAN으로 표정 시뮬레이션 구현, Streamlit으로 서비스화
+- Gemini 확장 및 심리상담 데이터베이스 연동 예정
+🔗 [GitHub](https://github.com/JamieSKinard/est_wassup_03)
+
+#### 🐱 개냥이 | 2022.10.25 ~ 2022.12.06
+
+> 유기동물 음성 인식 모델
+> 
+- Mel Spectrogram(82.6%), MFCC(91.7%) 비교
+- 직접 구현한 CNN 모델로 학습
+🔗 [GitHub](https://github.com/electronicguy97/AI)
 
 ---
 
